@@ -1,2 +1,2 @@
 # DrMundo1.github.io
-蒙多CSND博客
+蒙多CS博客
